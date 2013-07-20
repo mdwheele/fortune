@@ -14,3 +14,8 @@ Install through Composer.
     "mdwheele/fortune": "dev-master"
 }
 ```
+
+## Attributions
+
+* [Alan Silverstein](http://silgro.com) <ajs@frii.com>
+    * Maintainer of the fortunes.txt data file used to provide random fortunes.
