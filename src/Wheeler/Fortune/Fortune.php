@@ -15,7 +15,7 @@ class Fortune
     public static function make()
     {
         $instance = new static(new FileBasedFortuneRepository(__DIR__ . '/Data/fortunes.txt'));
-
+	return '';
         return $instance->fortunes->getRandomFortune();
     }
 }
